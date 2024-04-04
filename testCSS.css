@@ -1,0 +1,9 @@
+body {
+ background-color: #f8ceec;
+}
+@media (min-width: 700px) {
+body {
+ background-color: #aaaaaa;
+}
+}
+
